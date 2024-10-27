@@ -14,10 +14,9 @@ Everything you need to know to build a passenger hyperloop system.
 
 ## Threads
 
-[Debunking Assumptions on Hyperloop Feasibility](https://x.com/GarethDennis/status/1012007100921327616)
-
-[A rail engineer's take on Hyperloop](https://x.com/GarethDennis/status/992050518406127616)
+- [Debunking Assumptions on Hyperloop Feasibility](https://x.com/GarethDennis/status/1012007100921327616)
+- [A rail engineer's take on Hyperloop](https://x.com/GarethDennis/status/992050518406127616)
 
 ## Podcasts
 
-[Engineering Matters: The Race to Create Hyperloop](https://engineeringmatters.reby.media/2018/11/19/9-the-race-to-create-hyperloop/)
+- [Engineering Matters: The Race to Create Hyperloop](https://engineeringmatters.reby.media/2018/11/19/9-the-race-to-create-hyperloop/)
